@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/BlogWebisteTest/static/css/main.09945200.css",
-    "main.js": "/BlogWebisteTest/static/js/main.3096a87d.js",
-    "static/media/img9.png": "/BlogWebisteTest/static/media/img9.3bf817e1884d9df47f11.png",
-    "static/media/img6.png": "/BlogWebisteTest/static/media/img6.49bad4bc7f58652b22fd.png",
-    "static/media/img10.png": "/BlogWebisteTest/static/media/img10.2ac5aea87f28c2073032.png",
-    "static/media/img4.jpg": "/BlogWebisteTest/static/media/img4.3edccdc327b7c9ff8174.jpg",
-    "static/media/person1.png": "/BlogWebisteTest/static/media/person1.150c4c3456eddd33c8f3.png",
-    "static/media/person2.png": "/BlogWebisteTest/static/media/person2.e02c01385e29447386b8.png",
-    "static/media/person3.png": "/BlogWebisteTest/static/media/person3.632dada2f4da4980c9d2.png",
-    "static/media/img7.jpg": "/BlogWebisteTest/static/media/img7.a9e11b279ac8b0fa5767.jpg",
-    "static/media/img1.jpg": "/BlogWebisteTest/static/media/img1.e81e7cc559747985257d.jpg",
-    "static/media/img3.jpg": "/BlogWebisteTest/static/media/img3.9e93e233804a6874288e.jpg",
-    "static/media/img11.jpg": "/BlogWebisteTest/static/media/img11.a7bb842e4ebdc016dbd1.jpg",
-    "static/media/img13.jpg": "/BlogWebisteTest/static/media/img13.05665fc7dd969ca66ead.jpg",
-    "static/media/img2.jpg": "/BlogWebisteTest/static/media/img2.ac3aa0f5224bab5ada4c.jpg",
-    "static/media/img5.jpg": "/BlogWebisteTest/static/media/img5.f0790fff536c68f4025f.jpg",
-    "index.html": "/BlogWebisteTest/index.html",
-    "main.09945200.css.map": "/BlogWebisteTest/static/css/main.09945200.css.map",
-    "main.3096a87d.js.map": "/BlogWebisteTest/static/js/main.3096a87d.js.map"
+    "main.css": "/shrm424/BlogWebsiteTest/static/css/main.09945200.css",
+    "main.js": "/shrm424/BlogWebsiteTest/static/js/main.2b4f3e19.js",
+    "static/media/img9.png": "/shrm424/BlogWebsiteTest/static/media/img9.3bf817e1884d9df47f11.png",
+    "static/media/img6.png": "/shrm424/BlogWebsiteTest/static/media/img6.49bad4bc7f58652b22fd.png",
+    "static/media/img10.png": "/shrm424/BlogWebsiteTest/static/media/img10.2ac5aea87f28c2073032.png",
+    "static/media/img4.jpg": "/shrm424/BlogWebsiteTest/static/media/img4.3edccdc327b7c9ff8174.jpg",
+    "static/media/person1.png": "/shrm424/BlogWebsiteTest/static/media/person1.150c4c3456eddd33c8f3.png",
+    "static/media/person2.png": "/shrm424/BlogWebsiteTest/static/media/person2.e02c01385e29447386b8.png",
+    "static/media/person3.png": "/shrm424/BlogWebsiteTest/static/media/person3.632dada2f4da4980c9d2.png",
+    "static/media/img7.jpg": "/shrm424/BlogWebsiteTest/static/media/img7.a9e11b279ac8b0fa5767.jpg",
+    "static/media/img1.jpg": "/shrm424/BlogWebsiteTest/static/media/img1.e81e7cc559747985257d.jpg",
+    "static/media/img3.jpg": "/shrm424/BlogWebsiteTest/static/media/img3.9e93e233804a6874288e.jpg",
+    "static/media/img11.jpg": "/shrm424/BlogWebsiteTest/static/media/img11.a7bb842e4ebdc016dbd1.jpg",
+    "static/media/img13.jpg": "/shrm424/BlogWebsiteTest/static/media/img13.05665fc7dd969ca66ead.jpg",
+    "static/media/img2.jpg": "/shrm424/BlogWebsiteTest/static/media/img2.ac3aa0f5224bab5ada4c.jpg",
+    "static/media/img5.jpg": "/shrm424/BlogWebsiteTest/static/media/img5.f0790fff536c68f4025f.jpg",
+    "index.html": "/shrm424/BlogWebsiteTest/index.html",
+    "main.09945200.css.map": "/shrm424/BlogWebsiteTest/static/css/main.09945200.css.map",
+    "main.2b4f3e19.js.map": "/shrm424/BlogWebsiteTest/static/js/main.2b4f3e19.js.map"
   },
   "entrypoints": [
     "static/css/main.09945200.css",
-    "static/js/main.3096a87d.js"
+    "static/js/main.2b4f3e19.js"
   ]
 }
