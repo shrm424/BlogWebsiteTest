@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto';
+}
+
+
+.image-with-text-overlay {
+    position: relative;
+    overflow: hidden;
+    height: 100vh;
+}
+
+.text-overlayContect {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
+    background-color: #0000ff50;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.text-overlay h1 {
+    font-size: 3.5rem;
+}
+
+.text-overlay p {
+    font-size: 1.5rem;
+}
+
+.buttonGet {
+    border-radius: 40px;
+    width: 30vh;
+    font-weight: bold;
+    border: 0;
+    background: #FFB6C1;
+    color: #0000FF;
+}
+
+
+
+/* backgrounds */

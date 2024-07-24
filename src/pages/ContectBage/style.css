@@ -1,0 +1,28 @@
+/* src/Contact.css */
+
+.contact-page {
+    padding: 2rem 0;
+  }
+  
+  .contact-page h1 {
+    margin-bottom: 1rem;
+  }
+  
+  .contact-page p {
+    margin-bottom: 2rem;
+  }
+  
+  .contact-page form {
+    margin-bottom: 2rem;
+  }
+  
+  .contact-page .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .contact-page .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+  }
+  
